@@ -1,0 +1,13 @@
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\bin\Debug\USBDisabler.exe
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\bin\Debug\USBDisabler.pdb
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\bin\Debug\USBDisabler.xml
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.vbprojResolveAssemblyReference.cache
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.Resources.resources
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.vbproj.GenerateResource.Cache
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.exe
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.xml
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.pdb
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\bin\Debug\USBDisabler.exe.manifest
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\bin\Debug\USBDisabler.application
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.exe.manifest
+e:\vivek\documents\visual studio 2012\Projects\USBDisabler\USBDisabler\obj\Debug\USBDisabler.application
